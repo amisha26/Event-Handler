@@ -1,11 +1,11 @@
-## Demo! [Click-here](https://eventhandler1.netlify.app/)
+### Demo! [Click-here](https://eventhandler1.netlify.app/)
 
-## Description
+### Description
 
 * Its a beginner project to understand the react eventhandler.
 * And to use eventhandler with react-hook.
 
-## Setup 
+### Setup 
 To run this project, install it locally using npm.
 
 ```
@@ -15,4 +15,4 @@ $ npm install
 $ npm start
 ```
 
-## Refer to [react-eventhanlder](https://reactjs.org/docs/handling-events.html)
+### Refer to [react-eventhanlder](https://reactjs.org/docs/handling-events.html)
