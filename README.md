@@ -15,4 +15,4 @@ $ npm install
 $ npm start
 ```
 
-### Refer to [react-eventhanlder](https://reactjs.org/docs/handling-events.html)
+### Refer here for [React-Event-Handler](https://reactjs.org/docs/handling-events.html)
